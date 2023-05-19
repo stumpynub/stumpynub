@@ -1,5 +1,19 @@
-### Hi there 👋
+# Hi there 🐶
 
+# Languages & Skills 
+
+**I'm kind of good at:** <br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,godot,python,unity,cs)](https://skillicons.dev)
+
+**I suck at:** <br>
+[![My Skills](https://skillicons.dev/icons?i=rust,blender,ps,react,flask)](https://skillicons.dev)
+
+
+**I touched once:** <br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+
+**I thought about touching but won't:**<br>
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 <!--
 **stumpynub/stumpynub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
