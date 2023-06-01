@@ -12,7 +12,7 @@
 **I touched once:** <br>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
-**I thought about touching but won't:**<br>
+**I thought about touching:**<br>
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 <!--
 **stumpynub/stumpynub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
