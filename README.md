@@ -1,12 +1,12 @@
-# Hi there 🐶
+# Howdy 🐶
 
 # Languages & Skills 
 
-**I'm kind of good at:** <br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,godot,python,unity,cs)](https://skillicons.dev)
+**I'm decent at:** <br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,godot,python,unity,react)](https://skillicons.dev)
 
-**I suck at:** <br>
-[![My Skills](https://skillicons.dev/icons?i=rust,blender,ps,react,flask)](https://skillicons.dev)
+**Still learning:** <br>
+[![My Skills](https://skillicons.dev/icons?i=rust,blender,ps,react,flask,nextjs)](https://skillicons.dev)
 
 
 **I touched once:** <br>
